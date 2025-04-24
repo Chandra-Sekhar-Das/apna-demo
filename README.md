@@ -1,3 +1,3 @@
 # apna-demo
 <br>
-author - Chandra Sekhar Das
+# author - Chandra Sekhar Das (apna)
